@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\algorithms\merging\merging.csproj" />
     <ProjectReference Include="..\algorithms\sorting\sorting.csproj" />
-    <ProjectReference Include="..\merging\merging.csproj" />
   </ItemGroup>
 
 </Project>
